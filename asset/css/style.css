@@ -14,6 +14,11 @@ body {
   justify-content: center;
   background: linear-gradient(45deg, #ff0 50%, #333 50%);
 }
+body h1 {
+  position: absolute;
+  top: 5%;
+  color: #fff;
+}
 .container {
   height: 450px;
   width: 330px;
